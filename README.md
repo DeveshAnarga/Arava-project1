@@ -1,4 +1,19 @@
-Digital Design (Devesh Gurusinghe)
+# Graphic Design Portfolio — Cord360 & Arava Exports
 
-Presented here are a selection of posters, banners, calendar covers, and advertisement materials created for esteemed companies, including www.cord360.com, www.aravaexports.com,
-and other notable organizations, over the past 2-3 years. These projects were undertaken during internships and contractual engagements.
+Marketing posters, banners, calendar covers, and ad creatives produced for **cord360.com**, **aravaexports.com**, and related brands during internships and contract work.
+
+## Deliverables
+
+- Social / Facebook posters and collaboration creatives
+- Website banners and hero imagery
+- Print-oriented posters and calendar covers
+- Brand-aligned advertisement materials
+
+## Clients
+
+- [cord360.com](https://www.cord360.com)
+- [aravaexports.com](https://www.aravaexports.com)
+
+## Author
+
+**Devesh Gurusinghe**
